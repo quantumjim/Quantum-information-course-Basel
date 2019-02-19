@@ -1,6 +1,6 @@
 # Quantum Information
 
-Course at the [University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of IBM Research.
+[Course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of IBM Research.
 
 The course begins on 19th Feb 2019 and will have weekly lectures and exercises. If you are not a able to attend the course in person, you can follow along with the materials below.
 
