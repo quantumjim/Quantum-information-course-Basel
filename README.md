@@ -22,4 +22,4 @@ The course will be based on educational materials created by IBM. In particular:
 
 ## Exercises
 
-* [Exercise 1](https://trinket.io/python3/848b69652e?showInstructions=true)
+* [Exercise 1](https://colab.research.google.com/drive/15D2t0WBtMOEgrlHWrgJAeCVmjvPPmx-l)
