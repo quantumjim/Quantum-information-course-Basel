@@ -18,7 +18,7 @@ The course will be based on educational materials created by IBM. In particular:
 
 ## Lectures
 
-* Lecture 1: Based on [The atoms of computation](https://learnqiskit.gitbook.io/composerguide/getting-started-with-the-composer/chapter-1-the-atoms-of-computation) and [The unique properties of qubits](https://learnqiskit.gitbook.io/composerguide/getting-started-with-the-composer/chapter-2-the-unique-properties-of-qubits).
+* Lecture 1: Based on [The atoms of computation](https://learnqiskit.gitbook.io/composerguide/getting-started-with-the-composer/chapter-1-the-atoms-of-computation) and [The unique properties of qubits](https://learnqiskit.gitbook.io/composerguide/getting-started-with-the-composer/chapter-2-the-unique-properties-of-qubits). A Qiskit implemementation of the latter in [this notebook](Lecture1.ipynb)
 
 ## Exercises
 
