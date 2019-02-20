@@ -22,4 +22,6 @@ The course will be based on educational materials created by IBM. In particular:
 
 ## Exercises
 
+The original Jupyter notebooks for the exercises can be found in this repository. The web-hosted versions can be found below.
+
 * [Exercise 1](https://colab.research.google.com/drive/15D2t0WBtMOEgrlHWrgJAeCVmjvPPmx-l)
