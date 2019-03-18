@@ -32,3 +32,6 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * [Exercise 1](https://colab.research.google.com/drive/15D2t0WBtMOEgrlHWrgJAeCVmjvPPmx-l)
 * Exercise 2: See Chapter 5 of the [interactive exercise](https://mybinder.org/v2/gh/quantumjim/qiskit-tutorials/master?filepath=community%2Fgames%2FHello_Qiskit.ipynb).
 * [Exercise 3](Exercise_3.pdf)
+* [Exercise 4](https://colab.research.google.com/drive/1DK-wi3r3dwzfxLEAuVV7M_KUCrVGR1eK)
+
+Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
