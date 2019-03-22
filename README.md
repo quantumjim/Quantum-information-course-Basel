@@ -12,9 +12,9 @@ Quantum information theory is the basis of multiple emerging technologies, such 
 
 The course will be based on educational materials created by IBM. In particular:
 
-* [Learning Qiskit for developers](https://learnqiskit.gitbook.io/developers/)
 * [Quantum Composer User Guide](https://learnqiskit.gitbook.io/composerguide/)
 * [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorials/blob/master/index.ipynb)
+* [Learning Qiskit for developers](https://learnqiskit.gitbook.io/developers/)
 * [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/)
 
 ## Lectures
