@@ -23,7 +23,11 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 2: For the next few weeks we'll look at how quantum states and gates can be represented, both visually and mathematically. To start this off is [this interactive exercise](https://mybinder.org/v2/gh/quantumjim/qiskit-tutorials/master?filepath=community%2Fgames%2FHello_Qiskit.ipynb).
 
-* Lecture 3: Based on [Getting to know your qubits](https://learnqiskit.gitbook.io/composerguide/the-weird-and-wonderful-world-of-the-qubit/getting-to-know-your-qubits).
+* Lecture 3: Based on [The weird and wonderful world of the qubit](https://learnqiskit.gitbook.io/composerguide/the-weird-and-wonderful-world-of-the-qubit).
+
+* Lecture 4: Based on [Universality of quantum computation](https://learnqiskit.gitbook.io/composerguide/universality-of-quantum-computation).
+
+* Lecture 5: Finishing off the above, and then moving on to [Putting gates to use](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use).
 
 ## Exercises
 
@@ -33,5 +37,6 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * Exercise 2: See Chapter 5 of the [interactive exercise](https://mybinder.org/v2/gh/quantumjim/qiskit-tutorials/master?filepath=community%2Fgames%2FHello_Qiskit.ipynb).
 * [Exercise 3](Exercise_3.pdf)
 * [Exercise 4](https://colab.research.google.com/drive/1DK-wi3r3dwzfxLEAuVV7M_KUCrVGR1eK)
+* [Exercise 5](https://colab.research.google.com/drive/1PCA2ewVXvUfws6I3fP73Ax3GlJDzGvzr)
 
 Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
