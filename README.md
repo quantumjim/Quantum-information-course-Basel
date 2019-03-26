@@ -25,9 +25,9 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 3: Based on [The weird and wonderful world of the qubit](https://learnqiskit.gitbook.io/composerguide/the-weird-and-wonderful-world-of-the-qubit).
 
-* Lecture 4: Based on [Universality of quantum computation](https://learnqiskit.gitbook.io/composerguide/universality-of-quantum-computation)
+* Lecture 4: Based on [Universality of quantum computation](https://learnqiskit.gitbook.io/composerguide/universality-of-quantum-computation).
 
-* Lecture 5: Finishing off the above, and then moving on to [Putting gates to use](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use)
+* Lecture 5: Finishing off the above, and then moving on to [Putting gates to use](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use).
 
 ## Exercises
 
