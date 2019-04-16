@@ -29,10 +29,11 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 5: Finishing off the above, and then moving on to [Putting gates to use](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use).
 
-* Lecture 6: Mixed states and quantum noise. Based on [some old lecture notes](Lecture6_Quantum_Noise.pdf).
+* Lecture 6: Mixed states and quantum noise. Based on [these lecture notes](Lecture6_Quantum_Noise.pdf).
 
 * Lecture 7: Introduction to QEC. Based on [this slideshow](Lecture7_QEC.pdf).
 
+* Lecture 8: This week we start on quantum algorithms with the QFT and phase estimation. Based on [these lecture notes](Lecture8_Quantum_Algorithms.pdf).
 
 ## Exercises
 
