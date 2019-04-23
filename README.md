@@ -35,6 +35,8 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 8: This week we start on quantum algorithms with the QFT and phase estimation. Based on [these lecture notes](Lecture8_Quantum_Algorithms.pdf).
 
+* Lecture 9: Building on last week we show how to do a classical subroutine on a quantum computer and use it in Shor's algorithm. Based on [these lecture notes](Lecture9_MoreQuantum_Algorithms.pdf).
+
 ## Exercises
 
 The original Jupyter notebooks for the exercises can be found in this repository. The web-hosted versions can be found below.
