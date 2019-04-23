@@ -49,6 +49,7 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * [Exercise 6](Exercise6.pdf)
 * [Exercise 7](Exercise7.pdf)
 * [Exercise 8](Exercise8.pdf)
+* [Exercise 9](Exercise9.pdf)
 
 Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
 
