@@ -37,6 +37,8 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 9: Building on last week we show how to do a classical subroutine on a quantum computer and use it in Shor's algorithm. Based on [these lecture notes](Lecture9_MoreQuantum_Algorithms.pdf).
 
+* Lecture 10: Some background on entanglement and its uses, drawing from the lecture notes [here](https://github.com/quantumjim/Quantum-information-course-Basel/blob/master/Lecture10_Quantum_Correlations_part_1.pdf) and [here](https://github.com/quantumjim/Quantum-information-course-Basel/blob/master/Lecture10_Quantum_Correlations_part_2.pdf), and the articles [Entanglement and Bell tests](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use/entanglement-and-bell-tests) and [GHZ states](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use/ghz-states)
+
 ## Exercises
 
 The original Jupyter notebooks for the exercises can be found in this repository. The web-hosted versions can be found below.
@@ -50,6 +52,7 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * [Exercise 7](Exercise7.pdf)
 * [Exercise 8](Exercise8.pdf)
 * [Exercise 9](Exercise9.pdf)
+* [Exercise 10](Exercise9.pdf)
 
 Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
 
