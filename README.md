@@ -39,6 +39,8 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 10: Some background on entanglement and its uses, drawing from the lecture notes [here](https://github.com/quantumjim/Quantum-information-course-Basel/blob/master/Lecture10_Quantum_Correlations_part_1.pdf) and [here](https://github.com/quantumjim/Quantum-information-course-Basel/blob/master/Lecture10_Quantum_Correlations_part_2.pdf), and the articles [Entanglement and Bell tests](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use/entanglement-and-bell-tests) and [GHZ states](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use/ghz-states)
 
+* Lecture 11: Grover's search algorithm. Some of the resources this is based on are not yet available, but there great explanations on the Quantum Computing Stack Exchange [here](https://quantumcomputing.stackexchange.com/questions/1385/is-there-a-laymans-explanation-for-why-grovers-algorithm-works/1386#1386), [here](https://quantumcomputing.stackexchange.com/questions/4397/why-does-grovers-search-invert-about-the-mean) and [here](https://quantumcomputing.stackexchange.com/questions/5293/grover-operator-as-a-rotation-matrix).
+
 ## Exercises
 
 The original Jupyter notebooks for the exercises can be found in this repository. The web-hosted versions can be found below.
@@ -53,6 +55,7 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * [Exercise 8](Exercise8.pdf)
 * [Exercise 9](Exercise9.pdf)
 * [Exercise 10](Exercise10.pdf)
+* [Exercise 11](Exercise11.pdf)
 
 Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
 
