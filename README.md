@@ -12,9 +12,8 @@ Quantum information theory is the basis of multiple emerging technologies, such 
 
 The course will be based on educational materials created by IBM. In particular:
 
-* [Quantum Composer User Guide](https://learnqiskit.gitbook.io/composerguide/)
+* [Quantum Composer User Guide](https://quantum-computing.ibm.com/support/guides/5Cae60C166C1694Be21Df8Ca?section=5cae613866c1694be21df8cc)
 * [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorials/blob/master/index.ipynb)
-* [Learning Qiskit for developers](https://learnqiskit.gitbook.io/developers/)
 * [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/)
 
 ## Lectures
@@ -39,7 +38,9 @@ The course will be based on educational materials created by IBM. In particular:
 
 * Lecture 10: Some background on entanglement and its uses, drawing from the lecture notes [here](https://github.com/quantumjim/Quantum-information-course-Basel/blob/master/Lecture10_Quantum_Correlations_part_1.pdf) and [here](https://github.com/quantumjim/Quantum-information-course-Basel/blob/master/Lecture10_Quantum_Correlations_part_2.pdf), and the articles [Entanglement and Bell tests](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use/entanglement-and-bell-tests) and [GHZ states](https://learnqiskit.gitbook.io/composerguide/putting-gates-to-use/ghz-states)
 
-* Lecture 11: Grover's search algorithm. Some of the resources this is based on are not yet available, but there great explanations on the Quantum Computing Stack Exchange [here](https://quantumcomputing.stackexchange.com/questions/1385/is-there-a-laymans-explanation-for-why-grovers-algorithm-works/1386#1386), [here](https://quantumcomputing.stackexchange.com/questions/4397/why-does-grovers-search-invert-about-the-mean) and [here](https://quantumcomputing.stackexchange.com/questions/5293/grover-operator-as-a-rotation-matrix).
+* Lecture 11: Grover's search algorithm. Based on [this guide](https://quantum-computing.ibm.com/support/guides/5cb244d4bff8a7004cdfee42?page=5cc0d9fd86b50d00642353ca).There are also great explanations on the Quantum Computing Stack Exchange [here](https://quantumcomputing.stackexchange.com/questions/1385/is-there-a-laymans-explanation-for-why-grovers-algorithm-works/1386#1386), [here](https://quantumcomputing.stackexchange.com/questions/4397/why-does-grovers-search-invert-about-the-mean) and [here](https://quantumcomputing.stackexchange.com/questions/5293/grover-operator-as-a-rotation-matrix).
+
+* Lecture 12: Introduction to Python and Qiskit, based on [this notebook](Lecture12_Qiskit.ipynb).
 
 ## Exercises
 
@@ -56,9 +57,10 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * [Exercise 9](Exercise9.pdf)
 * [Exercise 10](Exercise10.pdf)
 * [Exercise 11](Exercise11.pdf)
+* [Exercise 12](Exercise12.pdf)
 
 Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
 
 ## Exam
 
-The exam will be 14:00 onwards on 28th May 2019.
+The exam will be 14:00 onwards on 28th May 2019 (or 16:00 onwards, for those who can't make the earlier time).
