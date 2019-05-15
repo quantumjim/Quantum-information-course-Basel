@@ -59,7 +59,7 @@ The original Jupyter notebooks for the exercises can be found in this repository
 * [Exercise 11](Exercise11.pdf)
 * [Exercise 12](Exercise12.pdf)
 
-Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU).
+Solutions to some of the exercises from previous weeks can be found [here](https://drive.google.com/open?id=1dwxMlhT8rHh3C7x6tf8t8_mI0xzS9BwU). For implementations of algorithms, see [here](https://quantum-computing.ibm.com/support/guides/5cb244d4bff8a7004cdfee42?section=5cbaf03974a4010049e1a2a9).
 
 ## Exam
 
