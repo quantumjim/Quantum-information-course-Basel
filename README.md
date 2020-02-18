@@ -18,7 +18,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 ## Exercises
 
-Exercises will either be given as PDFs or Jupyter notebooks. The notebooks can be run locally or on the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/) (use the 'import' function).
+Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/). For this, just use the 'import' function.
 
 * Exercise 1: Work through [this notebook](exercises/Hello_Qiskit.ipynb). Note that [this file](exercises/hello_quantum.py) needs to be located in the same directory. If using the IBM Quantum Experience, simply upload both. Hand in the completed notebook by email.
 
