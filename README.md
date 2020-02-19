@@ -14,7 +14,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 ## Lectures
 
-* Lecture 1: Based on [The atoms of computation](https://qiskit.org/textbook/ch-states/atoms-computation.html) and [The unique properties of qubits](https://qiskit.org/textbook/ch-states/unique-properties-qubits.html).
+* Lecture 1: Based on [The atoms of computation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/atoms-computation.ipynb) and [The unique properties of qubits](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/unique-properties-qubits.ipynb).
 
 ## Exercises
 
