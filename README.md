@@ -24,6 +24,7 @@ The easiest way to to download the exercises is to download the whole repository
 
 * Exercise 1: Work through [this notebook](exercises/Hello_Qiskit.ipynb). Note that [this file](exercises/hello_quantum.py) needs to be located in the same directory. If using the IBM Quantum Experience, simply upload both. Hand in the completed notebook by email.
 
+Exercises are to be handed in before the following lecture.
 
 ## Exam
 
