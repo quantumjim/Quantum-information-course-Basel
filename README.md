@@ -28,4 +28,4 @@ Exercises are to be handed in before the following lecture.
 
 ## Exam
 
-The final exam is planned for the week of 25th May.
+The final exam is planned for the week of 25th May. Most likely at 14:00 on 27th May. Let me know of any sheduling conflicts.
