@@ -1,8 +1,11 @@
 # Quantum Information
 
+**Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. A decision on the form of the next lecture will be made in the morning and communicated here and by email.**
+
 [Course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of IBM Research.
 
 The course begins on 19th Feb 2020 and will have weekly lectures and exercises. If you are not able to attend the course in person, you can follow along with the materials below.
+
 
 ## Course Content
 
@@ -24,11 +27,18 @@ Some exercises will be in the form of Jupyter notebooks. These can be run locall
 
 The easiest way to to download the exercises is to download the whole repository using [this link](https://github.com/quantumjim/Quantum-information-course-Basel/archive/master.zip).
 
-* Exercise 1: Work through [this notebook](exercises/Hello_Qiskit.ipynb). Note that [this file](exercises/hello_quantum.py) needs to be located in the same directory. If using the IBM Quantum Experience, simply upload both. Hand in the completed notebook by email.
+* **Exercise 1** Work through [this notebook](exercises/Hello_Qiskit.ipynb). Note that [this file](exercises/hello_quantum.py) needs to be located in the same directory. If using the IBM Quantum Experience, simply upload both. Hand in the completed notebook by email.
 
-* Exercise 2: Use quantum gates to make classical logic gates in [this notebook](exercises/classical_logic_gates.ipynb).
+* **Exercise 2** Use quantum gates to make classical logic gates in [this notebook](exercises/classical_logic_gates.ipynb).
 
 Exercises are to be handed in before the following lecture.
+
+### Bonus exercises
+
+These won't be graded, but they will help you out.
+
+* **Python and Qiskit on PewPews** Using a PewPew you can experiment with Python and Qiskit in a simple and fun environment. You can even try making a game! See the guide [here](https://nbviewer.jupyter.org/github/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/index.ipynb) to get started. You can either use a physical PewPew (handed out in lecture), or an emulator.
+
 
 ## Exam
 
