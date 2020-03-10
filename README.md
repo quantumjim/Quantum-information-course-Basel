@@ -21,7 +21,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 2: This is not a course on Python and Qiskit, though we will be using them. So in this lecture we'll review [0.1 Python and Jupyter Notebooks](qiskit-textbook/content/ch-prerequisites/python-and-jupyter-notebooks.ipynb) and [0.2 Qiskit](qiskit-textbook/content/ch-prerequisites/qiskit.ipynb). You'll need to run these notebooks. See the information in 'Exercises' for more information on this.
 
-* Lecture 1: Based on [1.4 Writing Down Qubit States](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/writing-down-qubit-states.ipynb) and [1.5 Pauli Matrices and the Bloch Sphere](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/pauli-matrices-bloch-sphere.ipynb).
+* Lecture 3: Based on [1.4 Writing Down Qubit States](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/writing-down-qubit-states.ipynb) and [1.5 Pauli Matrices and the Bloch Sphere](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/pauli-matrices-bloch-sphere.ipynb).
 
 ## Exercises
 
