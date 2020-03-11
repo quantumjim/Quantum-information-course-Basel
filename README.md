@@ -1,6 +1,6 @@
 # Quantum Information
 
-**Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. A decision on the form of the next lecture will be made in the morning and communicated here and by email.**
+**Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. Lectures will be distributed online until further notice. Information will be sent by email.**
 
 [Course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of IBM Research.
 
@@ -32,6 +32,8 @@ The easiest way to to download the exercises is to download the whole repository
 * **Exercise 1** Work through [this notebook](exercises/Hello_Qiskit.ipynb). Note that [this file](exercises/hello_quantum.py) needs to be located in the same directory. If using the IBM Quantum Experience, simply upload both. Hand in the completed notebook by email.
 
 * **Exercise 2** Use quantum gates to make classical logic gates in [this notebook](exercises/classical_logic_gates.ipynb).
+
+* **Exercise 3** [Try out your linear algebra](exercises/exercise_3.pdf)
 
 Exercises are to be handed in before the following lecture.
 
