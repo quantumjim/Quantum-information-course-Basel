@@ -23,7 +23,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 3: Based on [1.4 Writing Down Qubit States](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/writing-down-qubit-states.ipynb) and [1.5 Pauli Matrices and the Bloch Sphere](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/pauli-matrices-bloch-sphere.ipynb).
 
-* Lecture 4: Based on [2.5 States for Many Qubits](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/states-many-qubits.ipynb), [2.2 Quantum Gates](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/quantum-gates.ipynb) and [2.3 Fun with Matrices](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/fun-matrices.ipynb).
+* Lecture 4: Based on [1.5 States for Many Qubits](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-states/states-many-qubits.ipynb), [2.2 Quantum Gates](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/quantum-gates.ipynb) and [2.3 Fun with Matrices](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/fun-matrices.ipynb).
 
 ## Exercises
 
