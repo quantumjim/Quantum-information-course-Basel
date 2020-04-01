@@ -27,6 +27,8 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 5: Based on [Standard Gate Set](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/standard-gate-set.ipynb) and [Proving Universality](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/proving-universality.ipynb).
 
+* Lecture 6: Based on [Basic Circuit Identities](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/basic-circuit-identities.ipynb).
+
 ## Exercises
 
 Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/). For this, just use the 'import' function.
@@ -40,6 +42,8 @@ The easiest way to to download the exercises is to download the whole repository
 * **Exercise 3** [Try out your linear algebra](exercises/exercise_3.pdf).
 
 * **Exercise 4** [Get to know your Paulis](exercises/exercise_4.pdf).
+
+* **Exercise 5** [Using Clifford gates](exercises/exercise_5.pdf).
 
 
 ### Bonus exercises
