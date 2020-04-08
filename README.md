@@ -29,6 +29,8 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 6: Based on [Basic Circuit Identities](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/basic-circuit-identities.ipynb).
 
+* Lecture 6: Based on [Superdense Coding](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/superdense-coding.ipynb) and [Quantum Teleportation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/teleportation.ipynb).
+
 ## Exercises
 
 Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/). For this, just use the 'import' function.
@@ -44,6 +46,8 @@ The easiest way to to download the exercises is to download the whole repository
 * **Exercise 4** [Get to know your Paulis](exercises/exercise_4.pdf).
 
 * **Exercise 5** [Using Clifford gates](exercises/exercise_5.pdf).
+
+* **Exercise 6** [Simulate a simple Hamiltonian](exercises/exercise_6.ipynb).
 
 
 ### Bonus exercises
