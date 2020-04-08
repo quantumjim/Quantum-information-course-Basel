@@ -29,7 +29,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 6: Based on [Basic Circuit Identities](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-gates/basic-circuit-identities.ipynb).
 
-* Lecture 6: Based on [Superdense Coding](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/superdense-coding.ipynb) and [Quantum Teleportation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/teleportation.ipynb).
+* Lecture 7: Based on [Superdense Coding](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/superdense-coding.ipynb) and [Quantum Teleportation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/teleportation.ipynb).
 
 ## Exercises
 
