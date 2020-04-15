@@ -31,7 +31,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 7: Based on [Superdense Coding](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/superdense-coding.ipynb) and [Quantum Teleportation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/teleportation.ipynb).
 
-* Lecture 8: Based on [Classical Computation on a Quantum Computer](extras/Oracle-Intro.pdf) and [Bernstein-Vazirani Algorithm](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/bernstein-vazirani.ipynb)
+* Lecture 8: Based on [Classical Computation on a Quantum Computer](extra/Oracle-Intro.pdf) and [Bernstein-Vazirani Algorithm](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/bernstein-vazirani.ipynb)
 
 ## Exercises
 
@@ -51,7 +51,7 @@ The easiest way to to download the exercises is to download the whole repository
 
 * **Exercise 6** [Simulate a simple Hamiltonian](exercises/exercise_6.ipynb).
 
-* **Exercise 7** [Beam $\left|\psi\right\rangle$ up, Scotty!](exercises/exercise_7.pdf)
+* **Exercise 7** [Beam a qubit up, Scotty!](exercises/exercise_7.pdf)
 
 
 ### Bonus exercises
