@@ -35,6 +35,8 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 9: Based on [Grover's Algorithm](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/grover.ipynb) and [Measurement Error Mitigation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-quantum-hardware/measurement-error-mitigation.ipynb).
 
+* Lecture 10: Based on [Introduction to Quantum Error Correction via the Repetition Code](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-quantum-hardware/error-correction-repetition-code.ipynb) and these slides [Measurement Error Mitigation](extra/QEC-Lecture.pdf).
+
 ## Exercises
 
 Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/). For this, just use the 'import' function.
@@ -53,9 +55,11 @@ The easiest way to to download the exercises is to download the whole repository
 
 * **Exercise 6** [Simulate a simple Hamiltonian](exercises/exercise_6.ipynb).
 
-* **Exercise 7** [Beam a qubit up, Scotty!](exercises/exercise_7.pdf)
+* **Exercise 7** [Beam a qubit up, Scotty!](exercises/exercise_7.pdf).
 
-* **Exercise 8** [Clean up your garbage](exercises/exercise_8.pdf)
+* **Exercise 8** [Clean up your garbage](exercises/exercise_8.pdf).
+
+* **Exercise 9** [Implement Grover's algorithm](exercises/exercise_8.pdf).
 
 
 ### Bonus exercises
@@ -69,4 +73,4 @@ These won't be graded, but they will help you out.
 
 ~~The final exam is planned for the week of 25th May. Most likely at 14:00 on 27th May. Let me know of any sheduling conflicts.~~
 
-We'll see what we can do closer to the time.
+To be announced next week.
