@@ -35,7 +35,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 9: Based on [Grover's Algorithm](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-algorithms/grover.ipynb) and [Measurement Error Mitigation](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-quantum-hardware/measurement-error-mitigation.ipynb).
 
-* Lecture 10: Based on [Introduction to Quantum Error Correction via the Repetition Code](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-quantum-hardware/error-correction-repetition-code.ipynb) and these slides [Measurement Error Mitigation](extra/QEC-Lecture.pdf).
+* Lecture 10: Based on [Introduction to Quantum Error Correction via the Repetition Code](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-quantum-hardware/error-correction-repetition-code.ipynb) and [these slides](extra/QEC-Lecture.pdf).
 
 ## Exercises
 
