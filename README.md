@@ -59,7 +59,7 @@ The easiest way to to download the exercises is to download the whole repository
 
 * **Exercise 8** [Clean up your garbage](exercises/exercise_8.pdf).
 
-* **Exercise 9** [Implement Grover's algorithm](exercises/exercise_8.pdf).
+* **Exercise 9** [Implement Grover's algorithm](exercises/exercise_9.pdf).
 
 
 ### Bonus exercises
