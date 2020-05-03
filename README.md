@@ -71,6 +71,30 @@ These won't be graded, but they will help you out.
 
 ## Exam
 
-~~The final exam is planned for the week of 25th May. Most likely at 14:00 on 27th May. Let me know of any sheduling conflicts.~~
+Instead of the exam (and the final few exercises) we will have a Final Project.
 
-To be announced next week.
+The main aim of this is for you to demonstrate understanding of the topics in the course. But the format is fairly free to allow you to do this in a way that suits you best.
+
+Below are the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce.
+
+## Write an explanation of a topic of your choice
+
+You can write about one of the topics covered in the lectures, or about something that wasn't covered. You can include relevant example code in Qiskit, or you can avoid the programming and just have text and images
+
+### Examples
+
+* [Qiskit Textbook section on Phase Kickback](https://qiskit.org/textbook/ch-gates/phase-kickback.html).
+* [Qiskit Textbook section on Berstein-Vazirani](https://qiskit.org/textbook/ch-algorithms/bernstein-vazirani.html).
+* [An attempt at a popular science article on quantum non-locality](https://bullshit.ist/some-quantum-weirdness-with-the-simplest-maths-possible-446d33046cf7).
+
+
+## Make a game using quantum programming
+
+### Examples
+
+
+## Run benchmarks on prototype devices
+
+### Examples
+
+
