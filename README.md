@@ -77,6 +77,8 @@ The main aim of this is for you to demonstrate understanding of the topics in th
 
 Below are the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce.
 
+The deadline is essentially Friday 29th May, so ask all your last minute questions before then. However, you can keep working and submitting until Wed 3rd June.
+
 ### Write an explanation of a topic of your choice
 
 You can write about one of the topics covered in the lectures, or about something that wasn't covered. You can include relevant example code in Qiskit, or you can avoid the programming and just have text and images
