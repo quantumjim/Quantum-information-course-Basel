@@ -69,7 +69,7 @@ These won't be graded, but they will help you out.
 * **Python and Qiskit on PewPews** Using a PewPew you can experiment with Python and Qiskit in a simple and fun environment. You can even try making a game! See the guide [here](https://nbviewer.jupyter.org/github/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/index.ipynb) to get started. You can either use a physical PewPew (handed out in lecture), or an emulator.
 
 
-## Exam
+## Exam: Final Project
 
 Instead of the exam (and the final few exercises) we will have a Final Project.
 
@@ -107,6 +107,7 @@ To make a game, you typically use a game engine. But getting game engines to wor
 * [Quantum Awesomeness](https://github.com/Qiskit/qiskit-community-tutorials/blob/master/games/quantum_awesomeness.ipynb): a game that gives insight into real devices (and [featured in the NZZ](https://www.nzz.ch/wissenschaft/games-with-james-ld.1367435)).
 * [QPong](https://www.youtube.com/watch?v=a1NZC5rqQD8): A game that implements the core game mechanic with a (simulation of).
 * [Q Avrai](https://github.com/quantumjim/Q_Avrai/blob/master/papers/CoG/main.pdf): using quantum computing for map generation.
+* See also the games from the recent [IndiQ Game Jam](https://itch.io/jam/indiq-quantum-game-jam/entries).
 
 
 ### Run benchmarks on prototype devices
