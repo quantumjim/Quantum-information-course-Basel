@@ -37,6 +37,8 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 10: Based on [Introduction to Quantum Error Correction via the Repetition Code](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/master/qiskit-textbook/content/ch-quantum-hardware/error-correction-repetition-code.ipynb) and [these slides](extra/QEC-Lecture.pdf).
 
+* Lecture 11: Based on [Quantum Procedural Generation](https://nbviewer.jupyter.org/github/quantumjim/blog/blob/master/Quantum_Procedural_Generation/1_Introduction.ipynb) and [A quantum procedure for map generation](https://github.com/quantumjim/Q_Avrai/blob/master/papers/CoG/main.pdf).
+
 ## Exercises
 
 Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/). For this, just use the 'import' function.
@@ -99,7 +101,9 @@ Basically, reasons why we might make a quantum game are:
 * To educate people about quantum computing.
 * To start looking for ways in which quantum computing might actually be useful for games.
 
-To make a game, you typically use a game engine. But getting game engines to work with Qiskit can be tricky! I've put some tools together to help you with this, which you can find [here](https://twitter.com/decodoku/status/1249700657159782405).
+To make a game, you typically use a game engine. But getting game engines to work with Qiskit can be tricky! I've put some tools together to help you with this, which you can find [here](https://twitter.com/decodoku/status/1249700657159782405). You can also use the PewPews!
+
+**Remember: don't just use quantum for a random number generator!**
 
 #### Examples
 
