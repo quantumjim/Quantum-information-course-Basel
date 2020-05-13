@@ -39,6 +39,8 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 * Lecture 11: Based on [Quantum Procedural Generation](https://nbviewer.jupyter.org/github/quantumjim/blog/blob/master/Quantum_Procedural_Generation/1_Introduction.ipynb) and [A quantum procedure for map generation](https://github.com/quantumjim/Q_Avrai/blob/master/papers/CoG/main.pdf).
 
+* Lecture 12: Based on [Hybrid quantum-classical Neural Networks with PyTorch and Qiskit](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html), which is explained in [this video](https://www.youtube.com/watch?v=bwybWz2IaR4).
+
 ## Exercises
 
 Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Experience](https://quantum-computing.ibm.com/jupyter/). For this, just use the 'import' function.
