@@ -1,11 +1,10 @@
 # Quantum Information
 
+[This is a course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of IBM Research.
+
 **Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. Lectures will be distributed online until further notice. Information will be sent by email.**
 
-[Course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of IBM Research.
-
-The course begins on 19th Feb 2020 and will have weekly lectures and exercises. If you are not able to attend the course in person, you can follow along with the materials below.
-
+The course begins on 19th Feb 2020 and will have weekly lectures and exercises.
 
 ## Course Content
 
@@ -13,7 +12,7 @@ Quantum information theory is the basis of multiple emerging technologies, such 
 
 ## Course Text
 
-The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/preface.html).
+The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/preface.html). Mostly we'll be working out of a fork of this textbook, taken at the start of the course.
 
 ## Lectures
 
@@ -66,9 +65,9 @@ The easiest way to to download the exercises is to download the whole repository
 * **Exercise 9** [Implement Grover's algorithm](exercises/exercise_9.pdf).
 
 
-### Bonus exercises
+### Bonus exercise
 
-These won't be graded, but they will help you out.
+This won't be graded (unless you decide to do it for the final project), but you may still find it useful.
 
 * **Python and Qiskit on PewPews** Using a PewPew you can experiment with Python and Qiskit in a simple and fun environment. You can even try making a game! See the guide [here](https://nbviewer.jupyter.org/github/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/index.ipynb) to get started. You can either use a physical PewPew (handed out in lecture), or an emulator.
 
@@ -77,7 +76,7 @@ These won't be graded, but they will help you out.
 
 Instead of the exam (and the final few exercises) we will have a Final Project.
 
-The main aim of this is for you to demonstrate understanding of the topics in the course. But the format is fairly free to allow you to do this in a way that suits you best. Collaboration will be fine. But everyone needs something unique to submit.
+The main aim of this is for you to demonstrate understanding of the topics in the course. The format is fairly free to allow you to do this in a way that suits you best. Collaboration will be fine. But everyone needs something unique to submit.
 
 Below are the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce.
 
