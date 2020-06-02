@@ -82,6 +82,8 @@ Below are the different kinds of project you can choose from. Examples of existi
 
 The deadline is essentially Friday 29th May, so ask all your last minute questions before then. However, you can keep working and submitting until Wed 3rd June.
 
+Ideally you should submit it here, in [this folder](https://github.com/quantumjim/Quantum-information-course-Basel/tree/master/Final_Projects). For this you'll need to make your own fork (using the button to the top right), and then make a pull request. If that seems too complicated, send by email.
+
 ### Write an explanation of a topic of your choice
 
 You can write about one of the topics covered in the lectures, or about something that wasn't covered. You can include relevant example code in Qiskit, or you can avoid the programming and just have text and images
