@@ -15,8 +15,7 @@ requirements.
 
 
 ## Controls
-* `UP`, `DOWN`, `LEFT`, `RIGHT`: What they're supposed to do.
-* Try to avoid turning the snake inside out.
+* `UP`, `DOWN`, `LEFT`, `RIGHT`: What they're supposed to do. Try to avoid turning the snake inside out.
 * `X`: Apply a [NOT gate](#not-gate) to the food.
 * `O`: Apply a [Hadamard gate](#hadamard-gate) to the food.
 
