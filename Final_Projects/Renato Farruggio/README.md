@@ -33,11 +33,11 @@ For error mitigation, the actual bar is half of the expected probability. In the
 "((!b AND a) AND !(c OR b))"
 
 ### Output
-Initial formula: ((!b AND a) AND !(c OR b))
-Expected probability: 0.125
-Actual Probability 0.140625
-
-There is most probably a solution.
+Initial formula: ((!b AND a) AND !(c OR b))  
+Expected probability: 0.125  
+Actual Probability 0.140625  
+  
+There is most probably a solution.  
 
 
 ### Explanation of the Output
