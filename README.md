@@ -1,6 +1,6 @@
 # Quantum Information
 
-[This is a course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of [IBM Quantum](https://www.zurich.ibm.com/st/quantum/).
+This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/home?id=239410), given by James Wootton of [IBM Quantum](https://www.zurich.ibm.com/st/quantum/).
 
 **Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. Lectures will be distributed online. Information will be sent by email.**
 
