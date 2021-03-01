@@ -19,9 +19,12 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 * **Week 1:** What is quantum? What are computers?
   - [The Atoms of Computation](https://qiskit.org/textbook/ch-states/atoms-computation.html)
   - [What is Quantum?](https://qiskit.org/textbook/what-is-quantum.html)
-* **Week 2:** Hands-on with two qubits.
+* **Week 2:** Basic programming prerequisites (classical and quantum).
+  - [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html)
+  - [Basic Qiskit Syntax](https://nbviewer.jupyter.org/github/quantumjim/Quantum-information-course-Basel/blob/2020/qiskit-textbook/content/ch-prerequisites/qiskit.ipynb)
+* **Week 3:** Hands-on with two qubits.
   - [Hello Qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html)
-* **Week 3:**
+* **Week 4:**
   - [Representing Qubit States](https://qiskit.org/textbook/ch-states/representing-qubit-states.html)
   - [Single Qubit Gates](https://qiskit.org/textbook/ch-states/single-qubit-gates.html)
 
