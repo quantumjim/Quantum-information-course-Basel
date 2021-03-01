@@ -16,7 +16,14 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 ## Lectures
 
-Information on the lectures will be posted here.
+* **Week 1:** What is quantum? What are computers?
+  - [The Atoms of Computation](https://qiskit.org/textbook/ch-states/atoms-computation.html)
+  - [What is Quantum?](https://qiskit.org/textbook/what-is-quantum.html)
+* **Week 2:** Hands-on with two qubits.
+  - [Hello Qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html)
+* **Week 3:**
+  - [Representing Qubit States](https://qiskit.org/textbook/ch-states/representing-qubit-states.html)
+  - [Single Qubit Gates](https://qiskit.org/textbook/ch-states/single-qubit-gates.html)
 
 ## Exercises
 
