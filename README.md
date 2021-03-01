@@ -4,7 +4,7 @@ This is a [course at the University of Basel](https://vorlesungsverzeichnis.unib
 
 **Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. Lectures will be distributed online. Information will be sent by email.**
 
-The course begins on 3rd March 2021 and will have weekly lectures and exercises.
+The course begins on 2nd March 2021 and will have weekly lectures and exercises.
 
 ## Course Content
 
