@@ -22,8 +22,7 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 * **Week 2:** Basic programming prerequisites (classical and quantum).
   - [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html)
   - [Basic Qiskit Syntax](https://qiskit.org/textbook/ch-appendix/qiskit.html)
-* **Week 3:** Hands-on with two qubits.
-  - [Hello Qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html)
+  -  [Hello Qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html)
 * **Week 4:**
   - [Representing Qubit States](https://qiskit.org/textbook/ch-states/representing-qubit-states.html)
   - [Single Qubit Gates](https://qiskit.org/textbook/ch-states/single-qubit-gates.html)
