@@ -26,6 +26,10 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 * **Week 3:** Representing single qubit states and gates.
   - [Representing Qubit States](https://qiskit.org/textbook/ch-states/representing-qubit-states.html)
   - [Single Qubit Gates](https://qiskit.org/textbook/ch-states/single-qubit-gates.html)
+* **Week 4:** Multi-qubit states and circuit identities.
+  - [Multiple Qubits and Entangled States](https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html)
+  - [Phase Kickback](https://qiskit.org/textbook/ch-gates/phase-kickback.html)
+  - [More Circuit Identities](https://qiskit.org/textbook/ch-gates/more-circuit-identities.html)
 
 ## Exercises
 
