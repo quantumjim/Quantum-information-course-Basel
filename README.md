@@ -30,6 +30,12 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
   - [Multiple Qubits and Entangled States](https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html)
   - [Phase Kickback](https://qiskit.org/textbook/ch-gates/phase-kickback.html)
   - [More Circuit Identities](https://qiskit.org/textbook/ch-gates/more-circuit-identities.html)
+* **Week 5:** Fun with matrices.
+  - [Proving Universality](https://qiskit.org/textbook/ch-gates/proving-universality.html)
+* **Week 6:** Proving Universality and Implementing Oracles.
+  - [Proving Universality](https://qiskit.org/textbook/ch-gates/proving-universality.html)
+  - [Classical Computation on a Quantum Computer](https://qiskit.org/textbook/ch-gates/oracles.html)
+
 
 ## Exercises
 
