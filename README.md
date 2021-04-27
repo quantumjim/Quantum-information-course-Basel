@@ -93,7 +93,6 @@ To make a game, you need a game engine of some sort. Fortunately we at IBM Quant
 * [Quantum Awesomeness](https://github.com/Qiskit/qiskit-community-tutorials/blob/master/games/quantum_awesomeness.ipynb): a game that gives insight into real devices (and [featured in the NZZ](https://www.nzz.ch/wissenschaft/games-with-james-ld.1367435)).
 * [QPong](https://www.youtube.com/watch?v=a1NZC5rqQD8): A game that implements the core game mechanic with a (simulation of).
 * [Q Avrai](https://github.com/quantumjim/Q_Avrai/blob/master/papers/CoG/main.pdf): using quantum computing for map generation.
-* See also the games from the recent [IndiQ Game Jam](https://itch.io/jam/indiq-quantum-game-jam/entries).
 
 
 ### Run benchmarks on prototype devices
