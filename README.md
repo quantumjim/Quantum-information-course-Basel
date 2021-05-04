@@ -44,6 +44,9 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
   - [Quantum Fourier Transform](https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html)
   - [Quantum Phase Estimation](https://qiskit.org/textbook/ch-algorithms/quantum-phase-estimation.html)
   - [Shor's Algorithm](https://qiskit.org/textbook/ch-algorithms/superdense-coding.html)
+* **Week 9:** Grover's Algorthm (and why we can't yet run it).
+  - [Grover's Algorithm](https://qiskit.org/textbook/ch-algorithms/grover.html)
+  - [Measurement Error Mitigation](https://qiskit.org/textbook/ch-quantum-hardware/measurement-error-mitigation.html)
 
 ## Exercises
 
